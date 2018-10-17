@@ -1,0 +1,16 @@
+$buttonSize: 2em;
+
+.singleProduct {
+    &__form {
+        display: grid;
+        grid-template-columns: minmax(auto, 1fr) 3em min-content;
+        
+        button {
+            font-size: 1.2em;
+            align-self: center;
+            background-color: grey;
+            height: $buttonSize;
+            width: $buttonSize;
+        }
+    }
+}

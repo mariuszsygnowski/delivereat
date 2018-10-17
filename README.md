@@ -1,5 +1,6 @@
 # Delivereat
 
+This app allow to order from menu some products. I focus on logic 
 Let's create an app that allows customers to order food online.
 
 A few notes before we get started
